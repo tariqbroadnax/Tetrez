@@ -1,0 +1,17 @@
+<html>
+<body style="color:white;">
+<h1>Programming</h1>
+<p>
+Keerti Banweer<br>
+Malik Webster<br>
+Tariq Broadnax
+</p>
+
+<h1>Writing</h1>
+<p>Mostly Keerti</p>
+
+<h1>MVP</h1>
+<p>Stackoverflow</p>
+
+</body>
+</html>
